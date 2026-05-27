@@ -33,7 +33,7 @@ or which department is bleeding the most. This dashboard tries to answer that.
 ### Attrition Deep Dive
 ![Attrition](screenshots/02_attrition.png)
 ### Sales Performance
-![Sales](screenshots/03_Sales_performance.png)
+![Sales](screenshots/03_sales_performance.png)
 ### Productivity
 ![Productivity](screenshots/04_productivity.png)
 
