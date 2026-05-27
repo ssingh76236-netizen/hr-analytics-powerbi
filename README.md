@@ -29,13 +29,13 @@ or which department is bleeding the most. This dashboard tries to answer that.
 
 ## Dashboard Screenshots
 ### Overview
-![Overview](screenshots/01_Overview.png)
+![Overview](screenshots/01_overview.png)
 ### Attrition Deep Dive
-![Attrition](screenshots/02_Attrition.png)
+![Attrition](screenshots/02_attrition.png)
 ### Sales Performance
-![Sales](screenshots/03_Sales_Performance.png)
+![Sales](screenshots/03_Sales_performance.png)
 ### Productivity
-![Productivity](screenshots/04_Productivity.png)
+![Productivity](screenshots/04_productivity.png)
 
 ## Files
  `generate_data.py` : Generates employee table with realistic mess 
